@@ -19,7 +19,7 @@ jobs:
       id: sync
       uses: aormsby/Fork-Sync-With-Upstream-action@v2.1
       with:
-        upstream_repository: Workshop-de-Aprendizado-por-Reforco
+        upstream_repository: GrupoTuring/Workshop-de-Aprendizado-por-Reforco
         upstream_branch: master
         target_branch: master
 
